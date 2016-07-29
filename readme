@@ -3,3 +3,5 @@ why i need enter password in case of set ssh key.
 test git clone
 git checkout master
 git pull
+git branch testing
+git checkout testing
